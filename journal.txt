@@ -1,3 +1,7 @@
+Matthew Lazcano
+mlazcano@terpmail.umd.edu
+Section 301
+
 Week of september 8th
 - This week for our Week 1 excercises, which are in Python, I used ChatGPT to help me with Python concepts since I have never formally learned Python in the past. 
   So for each question, I would attempt to do it in python and then double check my work with GPT if I encountered an error. We then went over the concept I was having trouble with, like how to use it,
