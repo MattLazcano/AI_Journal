@@ -7,3 +7,6 @@ Week of september 8th
   So for each question, I would attempt to do it in python and then double check my work with GPT if I encountered an error. We then went over the concept I was having trouble with, like how to use it,
   where it can be helpful, and practice problems. In the past I have learned C++ and Java, so for certain questions that I knew how to do in java or C++, I would ask GPT how I can do the same in python
   or if I even can. GPT became a mentor and a code translater for me, in order to help me learn python.
+
+Week of September 15th
+- I didnt use AI any differently this week. Same thing as last week.
