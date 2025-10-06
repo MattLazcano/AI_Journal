@@ -18,4 +18,6 @@ Another way I used AI was to brainstorm project ideas for another class. My grou
 related to our topic, we quickly were able to decide on an idea.
 
 Week of Sep 29th
-- This week I used AI to help me find academic papers and articles for one of my group projects. Since I pay for the upgraded version of chatgpt I am able to use it to search the web and research. It helps a lot, instead of rummaging through millions of papers that arent specifically usefull to me, chatgpt helps me get a specific number of articles that could potentially help. It saved me lots of time.
+- This week I used AI to help me find academic papers and articles for one of my group projects. Since I pay for the upgraded version of chatgpt I am able to use it to search the web and research. It
+helps a lot, instead of rummaging through millions of papers that arent specifically usefull to me, chatgpt helps me get a specific number of articles that could potentially help. It saved me lots of
+time.
