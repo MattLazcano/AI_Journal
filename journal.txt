@@ -33,3 +33,6 @@ time to get used to but after using it for more than a day I was good. The brows
 can ask it anything based on the page you have open and it will be able to respond. By far the coolest feature about the web browser is the new "Agent Mode", you can give ChatGPT a certain task like write
 a paper for me based on the sources on the page and ChatGPT will take full control of your computer, think through your request, and write it for you in google docs in real time. Its so cool how far we have
 come. I cant wait to use this web browser more. It's not all perfect though. There are many things I personally dont like but then again the browser just got released so I'm giving them some leeway.
+
+Week of Oct 27th
+- I didnt use AI any differently this week.
