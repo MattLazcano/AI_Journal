@@ -43,3 +43,6 @@ side and ask it to summarize everything. It's like having a little helper always
 
 Week of Nov 10th
 - Some of the things weve been learning in class have been pretty hard to wrap my head around so Ive been using ai to help me better understand those concepts. Which has helped a lot.
+
+Week of Nove 17th
+- I used ai to help me create the architecture file in our project 3 assignemnt. I also used to to help me with some of the readme.
